@@ -1,0 +1,19 @@
+{
+  "name": "guiabasica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "es-dev-server --app-index ./src/index.html --node-resolve --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "es-dev-server": "^2.1.0",
+    "jest": "^26.6.3"
+  }
+}
