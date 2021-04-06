@@ -20,3 +20,11 @@ import { PadreElement } from './propiedades/ejemplo-acceso/padre-element';
 import { HijoElement } from './propiedades/ejemplo-acceso/hijo-element';
 
 import { PropChanged } from './propiedades/ejemplo-changed/propchanged-component';
+
+//ejercicios
+import { EjeUno } from './ejercicios/ejuno-component';
+
+    //slot
+import { Animation } from './ejercicios/slot/animation';
+import { Circle } from './ejercicios/slot/circle';
+import { Square } from './ejercicios/slot/square';
