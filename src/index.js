@@ -23,8 +23,20 @@ import { PropChanged } from './propiedades/ejemplo-changed/propchanged-component
 
 //ejercicios
 import { EjeUno } from './ejercicios/ejuno-component';
+import './ejercicios/bind-component';
 
     //slot
 import { Animation } from './ejercicios/slot/animation';
 import { Circle } from './ejercicios/slot/circle';
 import { Square } from './ejercicios/slot/square';
+
+
+//01 Guia Basic
+import './01-basic/01-basic-setup'; 
+import './01-basic/02-manage-properties';
+import './01-basic/03-property-changes';
+import './01-basic/04-properties-and-attributes';
+import './01-basic/05-passing-properties';
+import './01-basic/06-hanle-events';
+import './01-basic/07-conditional-rendering';
+import './01-basic/08-repetead-templates';
