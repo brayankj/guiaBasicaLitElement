@@ -40,3 +40,7 @@ import './01-basic/05-passing-properties';
 import './01-basic/06-hanle-events';
 import './01-basic/07-conditional-rendering';
 import './01-basic/08-repetead-templates';
+import './01-basic/09-update-arrays-and-object';
+import './01-basic/10-render-styles';
+import './01-basic/11-feching-data';
+import './01-basic/12-firing-events';
